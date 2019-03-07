@@ -6,7 +6,7 @@ This learning plan is designed to provide web developers who are accessibility b
 
 ### What's a learning plan?
 
-Wikipedia does a great job of defining what a [learning plan](https://en.wikipedia.org/wiki/Learning_plan) is.
+Wikipedia does a great job of defining what a [learning plan](https://en.wikipedia.org/wiki/Learning_plan) is. And Sarah Drasner wrote a great article at CSS Tricks about how she uses them: [Learning To Learn](https://css-tricks.com/learning-to-learn/).
 
 ## Goal
 
