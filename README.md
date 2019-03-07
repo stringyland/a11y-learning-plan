@@ -43,20 +43,20 @@ Accessibility is a property of all websites, web apps or software apps. Some are
 
 ## Learning Plan
 
-(Times are wild guesstimates)
+Times are wild guesstimates based on how long it would take me to do all the tasks. If you're enjoying an activity, take as long as you want to experiment with it. If you need to break it down into smaller chunks, try doing the reading in one session and the activity in the next.
 
 <table>
 	<thead>
 		<tr>
 			<th scope="col">Goal</th>
 			<th scope="col">Time</th>
-			<th scope="col">Task/Projects/Activities</th>
+			<th scope="col">Reading/Activity</th>
 		</tr>
 	</thead>
 	<tbody>
 		<tr>
 			<td valign="top">Writing semantic HTML</td>
-			<td valign="top">One Day</td>
+			<td valign="top">Two hours</td>
 			<td valign="top">
 				<p>Writing semantic HTML makes all other accessible development techniques much easier. It is the foundation of your ability to write code which can be translated and transformed by the user and their chosen software into a format which works for their needs. </p>
 				<ul>
@@ -70,7 +70,7 @@ Accessibility is a property of all websites, web apps or software apps. Some are
 		</tr>
 		<tr>
 			<td valign="top">Creating accessible styles</td>
-			<td valign="top">Half day</td>
+			<td valign="top">Two hours</td>
 			<td valign="top">
 				<p>Accessible designs are out of scope for this learning plan. But we need to know how to implement them using the right techniques.</p> 
 				<ul>
@@ -79,7 +79,7 @@ Accessibility is a property of all websites, web apps or software apps. Some are
 					<li><a href="https://developers.google.com/web/fundamentals/accessibility/accessible-styles">Accessible styles</a> at Google's Web Fundamentals</li>
 					<li>In theory, most front-end web developers know how to make responsive designs already. But if you need a refresher or weren't taught it well, <a href="https://bradfrost.github.io/this-is-responsive/resources.html">Brad Frost's Responsive Resources</a> has everything you need.</li>
 				</ul>
-				<p>Activity: make sure your content page is repsonsive and add focus styles to any links or buttons. Use a contrast ratio tool to check the page and make fixes if needed. Add <kbd>body {filter : grayscale(100%);}</kbd> to the CSS to check if you have relied on colour alone for any visual indicators, and fix any problems.</p>
+				<p>Activity: (I'm assuming your page is already repsonsive - if not, take another half hour to edit and test it). Add focus styles to any links or buttons. Use a contrast ratio tool to check the page and make fixes if needed. Add <kbd>body {filter : grayscale(100%);}</kbd> to the CSS to check if you have relied on colour alone for any visual indicators, and fix any problems.</p>
 			</td>
 		</tr>
     		<tr>
@@ -107,7 +107,7 @@ Accessibility is a property of all websites, web apps or software apps. Some are
 		</tr>
 		<tr>
 			<td valign="top">Build an accessible drop-down menu</td>
-			<td valign="top">Half day</td>
+			<td valign="top">Three hours</td>
 			<td valign="top">
 				<p>Site navigation brings together accessibility requirements, so it makes a good practice feature.</p>
 				<ul>
@@ -118,7 +118,7 @@ Accessibility is a property of all websites, web apps or software apps. Some are
 		</tr>
 		<tr>
 			<td valign="top">Build an accessible form</td>
-			<td valign="top">Half day</td>
+			<td valign="top">Three hours</td>
 			<td valign="top">
 				<p>There's more to accessible forms than choosing semantic elements. We now have to use the right attributes, and consider how screen reader software behaves differently inside form elements.</p>
 				<ul>
@@ -131,7 +131,7 @@ Accessibility is a property of all websites, web apps or software apps. Some are
 		</tr>
 		<tr>
 			<td valign="top">Providing accessible error messages</td>
-			<td valign="top">Half day</td>
+			<td valign="top">Three hours</td>
 			<td valign="top">
 				<p>Giving your users accessible error messages has a number of potential pitfalls to avoid. We want to make it as easy as possible for everyone to recover from any mistakes and finish their task.</p>
 				<ul>
